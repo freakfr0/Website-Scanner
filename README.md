@@ -15,8 +15,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freakfr0&show_icons=true&locale=en" alt="freakfr0" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freakfr0&" alt="freak.fr" /></p>
 
-[![version](https://img.shields.io/badge/version-1.0-magenta)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
-[![license](https://img.shields.io/badge/license-Titan-magenta)](https://github.com/freakfr0/titanv4/blob/main/LICENSE)
+[![version](https://img.shields.io/badge/version-1.0-beige)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
+[![license](https://img.shields.io/badge/license-Titan-beige)](https://github.com/freakfr0/titanv4/blob/main/LICENSE)
 
 # Website Scanner
 
